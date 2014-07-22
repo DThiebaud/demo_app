@@ -1,0 +1,233 @@
+[2014-07-22 08:06:14] INFO  WEBrick 1.3.1
+[2014-07-22 08:06:14] INFO  ruby 1.9.3 (2014-02-24) [i386-mingw32]
+[2014-07-22 08:06:14] INFO  WEBrick::HTTPServer#start: pid=6676 port=3000
+[2014-07-22 08:06:17] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:18] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:06:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:30] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:43] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:07:44] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:01] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:01] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:01] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:01] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:01] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+=> Booting WEBrick
+=> Rails 4.0.8 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Ctrl-C to shutdown server
+
+
+Started GET "/microposts/2" for 127.0.0.1 at 2014-07-22 08:06:15 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MicropostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mMicropost Load (0.0ms)[0m  SELECT "microposts".* FROM "microposts" WHERE "microposts"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered microposts/show.html.erb within layouts/application (93.8ms)
+Completed 200 OK in 563ms (Views: 515.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 08:06:17 -0400
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 08:06:18 -0400
+
+
+Started GET "/microposts" for 127.0.0.1 at 2014-07-22 08:06:28 -0400
+Processing by MicropostsController#index as HTML
+  [1m[36mMicropost Load (0.0ms)[0m  [1mSELECT "microposts".* FROM "microposts"[0m
+  Rendered microposts/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 62ms (Views: 62.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/microposts/new" for 127.0.0.1 at 2014-07-22 08:06:30 -0400
+Processing by MicropostsController#new as HTML
+  Rendered microposts/_form.html.erb (187.4ms)
+  Rendered microposts/new.html.erb within layouts/application (328.1ms)
+Completed 200 OK in 375ms (Views: 359.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/microposts" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+Processing by MicropostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VdKRpfOmyl00MkDBl/FogGXEi1zWX+2qc6rRGzqukVM=", "micropost"=>{"content"=>"andfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffddddddddddddddddddddddddddddddddddddddddddddddddddddddgggggggggggggggggggggggggggggggggggggggkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkfffffffffffffffffffffffffffffffffffffffgggggggggggggggggggggggggggggggggdddddddddddddddddddddddddddddfffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggg", "user_id"=>"5", "invoke"=>"", "active_record"=>""}, "commit"=>"Create Micropost"}
+  [1m[35m (15.7ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered microposts/_form.html.erb (15.6ms)
+  Rendered microposts/new.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 63ms (Views: 46.8ms | ActiveRecord: 15.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:30 -0400
+
+
+Started POST "/microposts" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+Processing by MicropostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VdKRpfOmyl00MkDBl/FogGXEi1zWX+2qc6rRGzqukVM=", "micropost"=>{"content"=>"ffffffffffffffffffffffffffffffffffffddddddddddddddddddddddddddddddddddddddddddddddddddddddgggggggggggggggggggggggggggggggggggggggkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkfffffffffffffffffffffffffffffffffffffffgggggggggggggggggggggggggggggggggdddddddddddddddddddddddddddddfffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggg", "user_id"=>"5", "invoke"=>"", "active_record"=>""}, "commit"=>"Create Micropost"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered microposts/_form.html.erb (15.6ms)
+  Rendered microposts/new.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 62ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 08:07:44 -0400
+
+
+Started POST "/microposts" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+Processing by MicropostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VdKRpfOmyl00MkDBl/FogGXEi1zWX+2qc6rRGzqukVM=", "micropost"=>{"content"=>"ggdddddddddddddddddddddddddddddfffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggg", "user_id"=>"5", "invoke"=>"", "active_record"=>""}, "commit"=>"Create Micropost"}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (171.9ms)[0m  [1mINSERT INTO "microposts" ("active_record", "content", "created_at", "invoke", "updated_at", "user_id") VALUES (?, ?, ?, ?, ?, ?)[0m  [["active_record", ""], ["content", "ggdddddddddddddddddddddddddddddfffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggg"], ["created_at", Tue, 22 Jul 2014 12:08:01 UTC +00:00], ["invoke", ""], ["updated_at", Tue, 22 Jul 2014 12:08:01 UTC +00:00], ["user_id", 5]]
+  [1m[35m (78.1ms)[0m  commit transaction
+Redirected to http://localhost:3000/microposts/3
+Completed 302 Found in 266ms (ActiveRecord: 250.0ms)
+
+
+Started GET "/microposts/3" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+Processing by MicropostsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mMicropost Load (0.0ms)[0m  [1mSELECT "microposts".* FROM "microposts" WHERE "microposts"."id" = ? LIMIT 1[0m  [["id", "3"]]
+  Rendered microposts/show.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 47ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+
+
+Started GET "/assets/microposts.css?body=1" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-22 08:08:01 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-22 08:08:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-22 08:08:02 -0400
+
+
+Started GET "/assets/microposts.js?body=1" for 127.0.0.1 at 2014-07-22 08:08:02 -0400
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-07-22 08:08:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-22 08:08:02 -0400
+[2014-07-22 08:08:02] WARN  Could not determine content-length of response body. Set content-length of the response or set Response#chunked = true
+[2014-07-22 08:08:30] INFO  going to shutdown ...
+[2014-07-22 08:08:30] INFO  WEBrick::HTTPServer#start done.
+Exiting
+Terminate batch job (Y/N)? 
